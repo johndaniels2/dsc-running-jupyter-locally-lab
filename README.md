@@ -1,5 +1,7 @@
 # Running Jupyter Notebooks Locally - Lab
 
+Whoop whoop!
+
 ## Introduction
 Now that we have had an introduction to the command line, have seen how to clone GitHub repos to our local machine (our computer), and have seen some common Jupyter Notebook operations, it's time to put our skills to the test!
 
